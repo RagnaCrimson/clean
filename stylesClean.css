@@ -1,0 +1,33 @@
+html, body{
+    background-image: url(paper.jpg);
+    background-color: lightblue;
+}
+
+.frame{
+    background-color: white;
+    padding: 30 30;
+    margin-top: 150px;
+    border-radius: 5px;
+    margin-left: 420px;
+    margin-right: 420px;
+    padding-bottom: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.buttonConfirm{
+    background-color: mediumseagreen;
+    color: white;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.buttonCancel{
+    background-color: orangered;
+    color: white;
+    padding: 7 7;
+    text-decoration: none;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: black;
+}

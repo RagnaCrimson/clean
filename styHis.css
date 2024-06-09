@@ -1,0 +1,59 @@
+html, body{
+    background-image: url(paper.jpg);
+    background-color: lemonchiffon;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: lightgrey;
+    overflow: hidden;
+  }
+ .navbar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  .navbar a:hover {
+    background-color: lightskyblue;
+    color: white;
+    }
+   .navbar a.active {
+      background-color: lavender;
+      color: burlywood;
+    }
+
+.frame{
+    background-color: white;
+    text-align: center;
+    width: 90%;
+    padding: 12 12;
+    border-radius: 5px;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+table, tr, td{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    width: 1%;
+    background-color: lightskyblue;
+    padding: 5 5;
+}
+
+.buttonExit{
+    background-color: lightcoral;
+    color: white;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+}

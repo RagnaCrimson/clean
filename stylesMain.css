@@ -1,0 +1,87 @@
+html, body{
+    background-image: url(paper.jpg);
+}
+
+.frame{
+    background-color: white;
+    padding: 15 15;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 5px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.pic1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.buttonMaid{
+    background-color: orangered;
+    color: white;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonUsers{
+    background-color: orangered;
+    color: white;
+    padding: 8 8;
+    text-decoration: none;
+    margin-left: 45px;
+    border-radius: 5px;
+}
+
+.buttonConfirm{
+    background-color: mediumseagreen;
+    color: white;
+    font-size: 18;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.buttonRegister{
+    background-color: orangered;
+    color: white;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: black;
+}
+
+table, tr, td{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+input{
+    border-radius: 5px;
+}
+
+.buttonConfirm{
+    background-color: mediumseagreen;
+    color: white;
+    font-size: 15;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.buttonCancel{
+    background-color: orangered;
+    color: white;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: black;
+}

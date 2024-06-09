@@ -1,0 +1,39 @@
+html, body{
+    background-image: url(paper.jpg);
+    background-color: lemonchiffon;
+}
+
+.frame{
+    background-color: white;
+    padding: 15 15;
+    text-align: center;
+    margin-top: 10%;
+    border-radius: 5px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+.buttonConfirm{
+    background-color: mediumseagreen;
+    color: white;
+    font-size: 18;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.buttonRegister{
+    background-color: orangered;
+    color: white;
+    padding: 8 8;
+    text-decoration: none;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: black;
+}
